@@ -1,4 +1,4 @@
-name: Simple PHP CI
+name: CI Laravel
 
 on:
   push:
